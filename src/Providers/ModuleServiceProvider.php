@@ -22,7 +22,7 @@ class ModuleServiceProvider extends BaseModuleServiceProvider
     {
         parent::boot();
 
-        // Use the frameworks's extended model classes
+        // Use the vanilo extended model classes
         $this->concord->registerModel(AddressContract::class, Address::class);
     }
 }
