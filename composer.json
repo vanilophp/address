@@ -18,8 +18,8 @@
     "require": {
         "php": ">=7.0.0",
         "konekt/address": ">=0.9.6",
-        "vanilo/contracts": "dev-master",
-        "vanilo/support": "dev-master"
+        "vanilo/contracts": "^0.1",
+        "vanilo/support": "^0.1"
     },
     "require-dev": {
         "phpunit/phpunit": "~6.2",
