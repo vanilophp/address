@@ -30,7 +30,6 @@ class ConcordModuleTest extends TestCase
 
         $this->assertTrue(
             $modules->get('vanilo.address')
-                    ->getManifest()
                     ->getKind()
                     ->isModule(),
             'Concord Module Type Should be a module'
