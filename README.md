@@ -7,7 +7,7 @@ This is the address module for [Vanilo](https://vanilo.io).
 [![Packagist downloads](https://img.shields.io/packagist/dt/vanilo/address.svg?style=flat-square)](https://packagist.org/packages/vanilo/address)
 [![MIT Software License](https://img.shields.io/badge/license-MIT-blue.svg?style=flat-square)](LICENSE.md)
 
-> **This module shouldn't be used standalone.*
+> **This module shouldn't be used standalone.**
 >
 > It merely binds [Konekt Address](https://github.com/artkonekt/address) with
 > the Vanilo (Address) Contract

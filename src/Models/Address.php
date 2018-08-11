@@ -9,9 +9,7 @@
  *
  */
 
-
 namespace Vanilo\Address\Models;
-
 
 use Konekt\Address\Models\Address as BaseAddress;
 use Vanilo\Contracts\Address as AddressContract;
