@@ -12,7 +12,6 @@
 
 namespace Vanilo\Address\Tests;
 
-
 use Konekt\Address\Contracts\Address as AddressContract;
 use Konekt\Address\Models\AddressProxy;
 use Vanilo\Address\Models\Address;

@@ -12,7 +12,6 @@
 
 namespace Vanilo\Address\Tests;
 
-
 class ConcordModuleTest extends TestCase
 {
     /**
@@ -22,7 +21,7 @@ class ConcordModuleTest extends TestCase
     {
         $modules = $this->app->concord
             ->getModules()
-            ->keyBy(function($module) {
+            ->keyBy(function ($module) {
                 return $module->getId();
             });
 
@@ -35,5 +34,4 @@ class ConcordModuleTest extends TestCase
             'Concord Module Type Should be a module'
         );
     }
-
 }
