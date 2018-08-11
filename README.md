@@ -5,6 +5,7 @@ This is the address module for [Vanilo](https://vanilo.io).
 [![Travis](https://img.shields.io/travis/vanilophp/address.svg?style=flat-square)](https://travis-ci.org/vanilophp/address)
 [![Packagist version](https://img.shields.io/packagist/v/vanilo/address.svg?style=flat-square)](https://packagist.org/packages/vanilo/address)
 [![Packagist downloads](https://img.shields.io/packagist/dt/vanilo/address.svg?style=flat-square)](https://packagist.org/packages/vanilo/address)
+[![StyleCI](https://styleci.io/repos/112483913/shield?branch=master)](https://styleci.io/repos/112483913)
 [![MIT Software License](https://img.shields.io/badge/license-MIT-blue.svg?style=flat-square)](LICENSE.md)
 
 > **This module shouldn't be used standalone.**
