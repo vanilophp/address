@@ -2,10 +2,10 @@
 
 ## 0.4 Series
 
-### Unreleased
-##### 2018-XX-XX
+##### 2018-10-26
 
-- 
+- The module is marked as deprecated and is discountinued.
+- The functionality has been moved to vanilo/support (`AddressModel` trait) and vanilo/framework (`Address` model).
 
 ## 0.3 Series
 
