@@ -6,7 +6,7 @@
 
 ---
 
-This is the address module for [Vanilo](https://vanilo.io) until version v0.3.
+This was the address module for [Vanilo](https://vanilo.io) until version v0.3.
 
 [![Travis](https://img.shields.io/travis/vanilophp/address.svg?style=flat-square)](https://travis-ci.org/vanilophp/address)
 [![Packagist version](https://img.shields.io/packagist/v/vanilo/address.svg?style=flat-square)](https://packagist.org/packages/vanilo/address)
